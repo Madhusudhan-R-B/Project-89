@@ -1,0 +1,25 @@
+p, h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aquamarine;
+}
+
+#omega_login_title{
+    color: gold;
+    font-size: 50px;
+}
+
+#username_text, #password_text{
+    color: orangered;
+}
+
+#login_side{
+    background-color: #000000;
+    height: 742px;
+    padding: 0px;
+    border-radius: 30px;
+}
+
+.body_background{
+    background-image: url("Maths-Wallpaper.webp");
+    
+}
